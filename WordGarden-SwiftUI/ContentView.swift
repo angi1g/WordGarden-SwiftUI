@@ -44,7 +44,8 @@ struct ContentView: View {
         "TOPO",
         "GIACOMO",
         "BARBARA",
-        "TALPA"
+        "TALPA",
+        "PAPERA"
     ]
         
     var body: some View {
